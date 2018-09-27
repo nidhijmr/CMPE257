@@ -1,2 +1,2 @@
-# CMPE257
+# CMPE 257
 Machine Learning
