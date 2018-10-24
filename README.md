@@ -39,7 +39,7 @@ TYDNE', 'POPLATEK MESICNE', 'POPLATEK PO OBRATU' where "POPLATEK TYDNE" stands f
 monthly issuance "POPLATEK TYDNE" stands for weekly issuance "POPLATEK PO OBRATU"
 stands for issuance after transaction Here, we are using index values of these feature tuples to set an integer value. For example, in 'status' feature class B willbe assigned integer value 0.
 
-### 6. Conclusion
+### 5. Conclusion
 To reiterate, our business use case was to profile customers and understand their ability to payback current loans and their credit card balances to target them for future loan and credit promotions. It is very important to identify defaulters, as it is to identify good customers. Another key requirement for this dataset is to identify defaulters pattern to judge new customers.
 
 We were able to perform clustering to understand multiple groups of similar pattern in our dataset using clustering techniques. We also worked on regression to predict contineous numeric values(loan amount) and classification to understand if the person defaulted a loan that was offered to him.
